@@ -2,10 +2,6 @@
  
  **Authors**: Federica Benassi and Chiara Ventrucci
  
- <p align="center">
-    <img src="./LabAtmo5/serie_temporale.pdf" style="width: 600px"/>
-</p>
- 
  This repository contains the reports and codes of the Laboratory of Atmospheric Physics course activities (all the reports are written in Italian):
  
  1) [Analysis of meteorogical data from stations](https://github.com/fedebenassi/Laboratory-of-Atmospheric-Physics/blob/main/G2_E1.pdf): in this experience we analysed the time series of meteorological data collected from the three stations on the roof of Physics department in Bologna.
