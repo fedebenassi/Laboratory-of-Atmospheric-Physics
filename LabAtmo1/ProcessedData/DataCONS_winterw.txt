@@ -1,0 +1,9 @@
+"Station w" "(%)"
+"Available" 6496 100
+"Valid" 6296 97
+"Filtered" 200 3
+" > by WSneg" 0 0
+" > by WSstrong" 0 0
+" > by WDNeg" 178 3
+" > by WSC12" 22 0
+" > by WDC" NA NA

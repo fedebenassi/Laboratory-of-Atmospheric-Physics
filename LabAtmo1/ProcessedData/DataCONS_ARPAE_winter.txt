@@ -1,0 +1,9 @@
+"ARPAE Data" "(%)"
+"Available" 6507 100
+"Valid" 6296 97
+"Filtered" 211 3
+" > by WSneg" 11 0
+" > by WSstrong" 0 0
+" > by WDNeg" 0 0
+" > by WSC12" 178 3
+" > by WDC" 22 0

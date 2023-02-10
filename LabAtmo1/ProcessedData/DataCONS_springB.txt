@@ -1,0 +1,9 @@
+"Station B" "(%)"
+"Available" 6621 100
+"Valid" 5698 86
+"Filtered" 923 14
+" > by WSneg" 9 0
+" > by WSstrong" 0 0
+" > by WDNeg" 99 1
+" > by WSC12" 589 9
+" > by WDC" 226 3
