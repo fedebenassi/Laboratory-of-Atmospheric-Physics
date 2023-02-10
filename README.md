@@ -3,7 +3,7 @@
  **Authors**: Federica Benassi and Chiara Ventrucci
  
  <p align="center">
-    <img src="./LabAtmo5/serie_temporale.pdf" alt="Drawing" style="width: 600px"/>
+    <img src="./LabAtmo5/serie_temporale.pdf" style="width: 600px"/>
 </p>
  
  This repository contains the reports and codes of the Laboratory of Atmospheric Physics course activities (all the reports are written in Italian):
